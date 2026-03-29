@@ -4,7 +4,7 @@ Flutter developer building real apps for real users.
 
 I created **Obsesive** — a science-based workout tracker available on Google Play.
 Built with Flutter, Firebase, Clean Architecture, and AdMob.
-Available in English, Spanish, and Portuguese 🇺🇸🇪🇸🇧🇷
+Available in English, Spanish, and Portuguese 🇺🇸 🇪🇸 🇧🇷
 
 ---
 
